@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/artifika</item>
+        <item>@font/cabin_sketch_bold</item>
+        <item>@font/corben_bold</item>
+        <item>@font/itim</item>
+        <item>@font/krona_one</item>
+    </array>
+</resources>
